@@ -5,4 +5,7 @@ Build an Amazon Directory Service AD in AWS and populate it with users from the 
 ## Configure the AWS Managed Active Directory Domain Services (DS AD):
 
  1. Provide Directory DNS name
- 2. 
+ 2. Provide Admin password 
+ 3. Select the VPC and host subnets in different Availibilty zones.
+ 
+ 
